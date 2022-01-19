@@ -1,3 +1,6 @@
+google.com, , DIRECT, f08c47fec0942fa0
+
+
 ironsrc.com, [130bb405d], Direct
 Remember to replace [130bb405d] with your account ID, which you can get from your account manager.
 
@@ -77,7 +80,6 @@ bidmachine.io, 114, RESELLER
 bidmachine.io, 67, RESELLER
 liftoff.io, 7f6945815e6, RESELLER
 
-google.com, , DIRECT, f08c47fec0942fa0
 
 #Updated January 14th, 2022
 #Appodeal
