@@ -1,5 +1,5 @@
 google.com, , DIRECT, f08c47fec0942fa0
-
+facebook.com, 957547331749590, DIRECT, c3e20eee3f780d68
 
 ironsrc.com, [130bb405d], Direct
 Remember to replace [130bb405d] with your account ID, which you can get from your account manager.
