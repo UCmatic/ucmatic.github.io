@@ -88,3 +88,6 @@ exchange.admazing.co, AM3, RESELLER
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
+bidease.com, exchange-20, RESELLER
+
+admixplay.com, 2012, RESELLER
